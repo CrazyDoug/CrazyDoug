@@ -15,15 +15,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="96" height="96"/>
 </div>
 <br>
-
-<div align="center"> 
-    <h2>Estatísticas</h2> 
-</div>
-<div align="center">
-    <a href="https://github.com/CrazyDoug" target="_blank">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CrazyDoug&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-</div>    
-<br>
           
 <div align="center"> 
     <h2>Contatos</h2> 
