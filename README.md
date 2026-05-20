@@ -1,6 +1,6 @@
 <div align="center"> 
 <h2>Bem vindo</h2>
-Sou um desenvolvedor FrontEnd Web, as vezes me aventuro em Unreal Engine 4.<br>
+Sou um desenvolvedor FrontEnd Web, as vezes me aventuro em Unreal Engine.<br>
 Estou me formando em Ciência da Computação pela Universidade Estácio de Sá.<br><br>
 </div>
 
